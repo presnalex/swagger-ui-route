@@ -1,0 +1,1 @@
+swagger from bindata for rest services
